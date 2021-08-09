@@ -1,0 +1,765 @@
+{
+    "hotTracks": {
+        "title": "The Songs That Matter",
+        "results": [
+            {
+                "name": "Today’s Hits",
+                "songs": [
+                    {
+                        "id": "yWHrYNP6j4k",
+                        "title": "The Kid LAROI, Justin Bieber - Stay (Lyrics)",
+                        "channelTitle": "7clouds",
+                        "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+                        "publishedAt": "2021-07-14T16:55:01Z",
+                        "duration": "PT2M20S",
+                        "viewCount": "7172559"
+                    },
+                    {
+                        "id": "6tsu2oeZJgo",
+                        "title": "Olivia Rodrigo - traitor (Lyric Video)",
+                        "channelTitle": "OliviaRodrigoVEVO",
+                        "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+                        "publishedAt": "2021-05-21T04:00:02Z",
+                        "duration": "PT3M50S",
+                        "viewCount": "50755894"
+                    },
+                    {
+                        "id": "0EVVKs6DQLo",
+                        "title": "Doja Cat - Kiss Me More (Official Video) ft. SZA",
+                        "channelTitle": "dojacatVEVO",
+                        "channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
+                        "publishedAt": "2021-04-09T04:00:00Z",
+                        "duration": "PT5M16S",
+                        "viewCount": "169252703"
+                    },
+                    {
+                        "id": "mRD0-GxqHVo",
+                        "title": "Glass Animals - Heat Waves (Official Video)",
+                        "channelTitle": "GlassAnimalsVEVO",
+                        "channelId": "UCOMLtULLvoymORim06O1vaw",
+                        "publishedAt": "2020-06-29T18:30:09Z",
+                        "duration": "PT3M56S",
+                        "viewCount": "34881188"
+                    },
+                    {
+                        "id": "orJSJGHjBLI",
+                        "title": "Ed Sheeran - Bad Habits [Official Video]",
+                        "channelTitle": "Ed Sheeran",
+                        "channelId": "UC0C-w0YjGpqDXGB8IHb662A",
+                        "publishedAt": "2021-06-25T04:00:33Z",
+                        "duration": "PT4M1S",
+                        "viewCount": "103293628"
+                    },
+                    {
+                        "id": "CFPLIaMpGrY",
+                        "title": "Rauw Alejandro - Todo de Ti (Video Oficial)",
+                        "channelTitle": "RauwAlejandroTv",
+                        "channelId": "UC_Av98lDjf5KvFib5elhpYg",
+                        "publishedAt": "2021-05-20T16:00:15Z",
+                        "duration": "PT3M32S",
+                        "viewCount": "289705411"
+                    }
+                ]
+            },
+            {
+                "name": "¡Dale Play!",
+                "songs": [
+                    {
+                        "id": "CFPLIaMpGrY",
+                        "title": "Rauw Alejandro - Todo de Ti (Video Oficial)",
+                        "channelTitle": "RauwAlejandroTv",
+                        "channelId": "UC_Av98lDjf5KvFib5elhpYg",
+                        "publishedAt": "2021-05-20T16:00:15Z",
+                        "duration": "PT3M32S",
+                        "viewCount": "289705411"
+                    },
+                    {
+                        "id": "doLMt10ytHY",
+                        "title": "Bad Bunny - Yonaguni (Video Oficial)",
+                        "channelTitle": "Bad Bunny",
+                        "channelId": "UCmBA_wu8xGg1OfOkfW13Q0Q",
+                        "publishedAt": "2021-06-04T04:00:11Z",
+                        "duration": "PT3M28S",
+                        "viewCount": "276930551"
+                    },
+                    {
+                        "id": "bQOh1cvMo00",
+                        "title": "Wisin, Jhay Cortez, Anuel - \"Fiel Remix\" (Official Video)  ft. Myke Towers, Los Legendarios",
+                        "channelTitle": "Wisin",
+                        "channelId": "UCP8rCSNr4WqZBgT3OmqhDHg",
+                        "publishedAt": "2021-06-15T22:00:10Z",
+                        "duration": "PT6M1S",
+                        "viewCount": "80069772"
+                    },
+                    {
+                        "id": "4qt2P9Tcnhs",
+                        "title": "BAD BUNNY - TE MUDASTE | EL ÚLTIMO TOUR DEL MUNDO [Visualizer]",
+                        "channelTitle": "Bad Bunny",
+                        "channelId": "UCmBA_wu8xGg1OfOkfW13Q0Q",
+                        "publishedAt": "2020-11-27T04:13:46Z",
+                        "duration": "PT2M11S",
+                        "viewCount": "87581407"
+                    }
+                ]
+            },
+            {
+                "name": "A-List Pop",
+                "songs": [
+                    {
+                        "id": "5GJWxDKyk3A",
+                        "title": "Billie Eilish - Happier Than Ever (Official Music Video)",
+                        "channelTitle": "BillieEilishVEVO",
+                        "channelId": "UCDGmojLIoWpXok597xYo8cg",
+                        "publishedAt": "2021-07-30T16:00:09Z",
+                        "duration": "PT5M16S",
+                        "viewCount": "22144965"
+                    },
+                    {
+                        "id": "yWHrYNP6j4k",
+                        "title": "The Kid LAROI, Justin Bieber - Stay (Lyrics)",
+                        "channelTitle": "7clouds",
+                        "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+                        "publishedAt": "2021-07-14T16:55:01Z",
+                        "duration": "PT2M20S",
+                        "viewCount": "7172559"
+                    },
+                    {
+                        "id": "6tsu2oeZJgo",
+                        "title": "Olivia Rodrigo - traitor (Lyric Video)",
+                        "channelTitle": "OliviaRodrigoVEVO",
+                        "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+                        "publishedAt": "2021-05-21T04:00:02Z",
+                        "duration": "PT3M50S",
+                        "viewCount": "50755894"
+                    },
+                    {
+                        "id": "orJSJGHjBLI",
+                        "title": "Ed Sheeran - Bad Habits [Official Video]",
+                        "channelTitle": "Ed Sheeran",
+                        "channelId": "UC0C-w0YjGpqDXGB8IHb662A",
+                        "publishedAt": "2021-06-25T04:00:33Z",
+                        "duration": "PT4M1S",
+                        "viewCount": "103293628"
+                    },
+                    {
+                        "id": "hmUyEDG7Jy0",
+                        "title": "Marshmello x Jonas Brothers - Leave Before You Love Me (Official Music Video)",
+                        "channelTitle": "MarshmelloVEVO",
+                        "channelId": "UCPW4ObAtDezrOGo2gjYOctg",
+                        "publishedAt": "2021-05-24T22:00:12Z",
+                        "duration": "PT2M45S",
+                        "viewCount": "30008822"
+                    },
+                    {
+                        "id": "TUVcZfQe-Kw",
+                        "title": "Dua Lipa - Levitating Featuring DaBaby (Official Music Video)",
+                        "channelTitle": "Dua Lipa",
+                        "channelId": "UC-J-KZfRV8c13fOCkhXdLiQ",
+                        "publishedAt": "2020-10-02T12:00:12Z",
+                        "duration": "PT3M51S",
+                        "viewCount": "325201454"
+                    },
+                    {
+                        "id": "2Z8L4Qed8F8",
+                        "title": "Anne-Marie & Niall Horan - Our Song [Official Video]",
+                        "channelTitle": "Anne-Marie",
+                        "channelId": "UCBL7ZxVX4GvW4CFiES_-0YA",
+                        "publishedAt": "2021-05-21T12:00:22Z",
+                        "duration": "PT3M6S",
+                        "viewCount": "27428284"
+                    }
+                ]
+            },
+            {
+                "name": "R&B Now",
+                "songs": [
+                    {
+                        "id": "50GjhhyfN_Q",
+                        "title": "H.E.R. - Come Through (Official Video) ft. Chris Brown",
+                        "channelTitle": "HERMusicVEVO",
+                        "channelId": "UCQT3bmChpmnR5ThhY_ewoOQ",
+                        "publishedAt": "2021-05-13T16:00:02Z",
+                        "duration": "PT3M57S",
+                        "viewCount": "17883893"
+                    },
+                    {
+                        "id": "2V_uAAAH-_Q",
+                        "title": "Doja Cat - Woman (Visualizer)",
+                        "channelTitle": "dojacatVEVO",
+                        "channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
+                        "publishedAt": "2021-06-25T04:00:01Z",
+                        "duration": "PT2M54S",
+                        "viewCount": "14173250"
+                    }
+                ]
+            },
+            {
+                "name": "Today’s Country",
+                "songs": [
+                    {
+                        "id": "CTYXd__nbvo",
+                        "title": "Nelly, Florida Georgia Line - Lil Bit (Official Video)",
+                        "channelTitle": "NellyVEVO",
+                        "channelId": "UCzQNgpWWPLuoAC6zA3VejzA",
+                        "publishedAt": "2021-06-14T15:00:09Z",
+                        "duration": "PT3M44S",
+                        "viewCount": "6442129"
+                    }
+                ]
+            }
+        ]
+    },
+    "newReleases": {
+        "title": "新着ミュージック",
+        "results": [
+            {
+                "name": "GOiNG TO DESTRUCTiON",
+                "songs": [
+                    {
+                        "id": "qQzdAsjWGPg",
+                        "title": "My Way (Remastered 2008)",
+                        "channelTitle": "Frank Sinatra - Topic",
+                        "channelId": "UC1zsfp3OD8qWQ0HfLbz2TXg",
+                        "publishedAt": "2018-12-12T11:32:11Z",
+                        "duration": "PT4M37S",
+                        "viewCount": "72212061"
+                    }
+                ]
+            },
+            {
+                "name": "THE ALBUM (JP Ver.)",
+                "songs": [
+                    {
+                        "id": "4VOMHN6M4Dw",
+                        "title": "BLACKPINK Crazy Over You Lyrics (블랙핑크 Crazy Over You 가사) [Color Coded Lyrics/Eng]",
+                        "channelTitle": "Lemoring",
+                        "channelId": "UC2dAS5opN0op-VkOcRBhoGg",
+                        "publishedAt": "2020-10-02T04:32:11Z",
+                        "duration": "PT2M42S",
+                        "viewCount": "25317807"
+                    }
+                ]
+            }
+        ]
+    },
+    "topAlbums": {
+        "title": "Top Albums",
+        "results": [
+            {
+                "name": "THE ALBUM (JP Ver.)",
+                "songs": [
+                    {
+                        "id": "4VOMHN6M4Dw",
+                        "title": "BLACKPINK Crazy Over You Lyrics (블랙핑크 Crazy Over You 가사) [Color Coded Lyrics/Eng]",
+                        "channelTitle": "Lemoring",
+                        "channelId": "UC2dAS5opN0op-VkOcRBhoGg",
+                        "publishedAt": "2020-10-02T04:32:11Z",
+                        "duration": "PT2M42S",
+                        "viewCount": "25317902"
+                    }
+                ]
+            },
+            {
+                "name": "GOiNG TO DESTRUCTiON",
+                "songs": [
+                    {
+                        "id": "qQzdAsjWGPg",
+                        "title": "My Way (Remastered 2008)",
+                        "channelTitle": "Frank Sinatra - Topic",
+                        "channelId": "UC1zsfp3OD8qWQ0HfLbz2TXg",
+                        "publishedAt": "2018-12-12T11:32:11Z",
+                        "duration": "PT4M37S",
+                        "viewCount": "72212061"
+                    }
+                ]
+            },
+            {
+                "name": "THE BOOK",
+                "songs": [
+                    {
+                        "id": "DuDX6wNfjqc",
+                        "title": "Daft Punk - Epilogue",
+                        "channelTitle": "Daft Punk",
+                        "channelId": "UC_kRDKYrUlrbtrSiyu5Tflg",
+                        "publishedAt": "2021-02-22T14:21:45Z",
+                        "duration": "PT7M58S",
+                        "viewCount": "26509218"
+                    },
+                    {
+                        "id": "vcGbefQBvJ4",
+                        "title": "YOASOBI「アンコール」Official Music Video",
+                        "channelTitle": "Ayase / YOASOBI",
+                        "channelId": "UCvpredjG93ifbCP1Y77JyFA",
+                        "publishedAt": "2021-01-18T14:00:09Z",
+                        "duration": "PT4M42S",
+                        "viewCount": "34556124"
+                    },
+                    {
+                        "id": "kzdJkT4kp-A",
+                        "title": "YOASOBI「ハルジオン」Official Music Video",
+                        "channelTitle": "Ayase / YOASOBI",
+                        "channelId": "UCvpredjG93ifbCP1Y77JyFA",
+                        "publishedAt": "2020-05-11T11:00:11Z",
+                        "duration": "PT3M23S",
+                        "viewCount": "59050478"
+                    },
+                    {
+                        "id": "sAuEeM_6zpk",
+                        "title": "YOASOBI「あの夢をなぞって」 Official Music Video",
+                        "channelTitle": "Ayase / YOASOBI",
+                        "channelId": "UCvpredjG93ifbCP1Y77JyFA",
+                        "publishedAt": "2020-01-18T12:00:13Z",
+                        "duration": "PT4M",
+                        "viewCount": "36096777"
+                    },
+                    {
+                        "id": "8iuLXODzL04",
+                        "title": "YOASOBI「たぶん」Official Music  Video",
+                        "channelTitle": "Ayase / YOASOBI",
+                        "channelId": "UCvpredjG93ifbCP1Y77JyFA",
+                        "publishedAt": "2020-07-20T11:00:13Z",
+                        "duration": "PT4M24S",
+                        "viewCount": "37936608"
+                    },
+                    {
+                        "id": "Y4nEEZwckuU",
+                        "title": "YOASOBI「群青」Official Music Video",
+                        "channelTitle": "Ayase / YOASOBI",
+                        "channelId": "UCvpredjG93ifbCP1Y77JyFA",
+                        "publishedAt": "2020-12-01T11:00:11Z",
+                        "duration": "PT4M23S",
+                        "viewCount": "50814668"
+                    },
+                    {
+                        "id": "vd3IlOjSUGQ",
+                        "title": "YOASOBI「ハルカ」Official Music Video",
+                        "channelTitle": "Ayase / YOASOBI",
+                        "channelId": "UCvpredjG93ifbCP1Y77JyFA",
+                        "publishedAt": "2020-12-18T11:00:10Z",
+                        "duration": "PT4M5S",
+                        "viewCount": "26287848"
+                    },
+                    {
+                        "id": "x8VYWazR5mE",
+                        "title": "YOASOBI「夜に駆ける」 Official Music Video",
+                        "channelTitle": "Ayase / YOASOBI",
+                        "channelId": "UCvpredjG93ifbCP1Y77JyFA",
+                        "publishedAt": "2019-11-16T13:00:11Z",
+                        "duration": "PT4M36S",
+                        "viewCount": "241494979"
+                    }
+                ]
+            }
+        ]
+    },
+    "topSongs": {
+        "name": "Top Songs",
+        "songs": [
+            {
+                "id": "WMweEpGlu_U",
+                "title": "BTS (방탄소년단) 'Butter' Official MV",
+                "channelTitle": "HYBE LABELS",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "publishedAt": "2021-05-21T03:46:13Z",
+                "duration": "PT3M3S",
+                "viewCount": "503787518"
+            },
+            {
+                "id": "CuklIb9d3fI",
+                "title": "BTS (방탄소년단) 'Permission to Dance' Official MV",
+                "channelTitle": "HYBE LABELS",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "publishedAt": "2021-07-09T03:59:12Z",
+                "duration": "PT5M",
+                "viewCount": "244489192"
+            },
+            {
+                "id": "gdZLi9oWNZg",
+                "title": "BTS (방탄소년단) 'Dynamite' Official MV",
+                "channelTitle": "HYBE LABELS",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "publishedAt": "2020-08-21T03:58:10Z",
+                "duration": "PT3M44S",
+                "viewCount": "1203310424"
+            },
+            {
+                "id": "AqaQsL-8I_M",
+                "title": "Megan Thee Stallion - Cry Baby (feat. DaBaby) [Official Video]",
+                "channelTitle": "Megan Thee Stallion",
+                "channelId": "UCKrdjiuS66yXOdEZ_cOD_TA",
+                "publishedAt": "2021-02-04T02:30:09Z",
+                "duration": "PT3M1S",
+                "viewCount": "80336422"
+            },
+            {
+                "id": "yXZd7xVdpJ0",
+                "title": "優里 - ドライフラワー / THE FIRST TAKE",
+                "channelTitle": "THE FIRST TAKE",
+                "channelId": "UC9zY_E8mcAo_Oq772LEZq8Q",
+                "publishedAt": "2020-10-30T13:00:13Z",
+                "duration": "PT5M12S",
+                "viewCount": "71146550"
+            },
+            {
+                "id": "TcLLpZBWsck",
+                "title": "Fujii Kaze - Kirari (Official Video)",
+                "channelTitle": "Fujii Kaze",
+                "channelId": "UCNIy6zQyP7SuLEIaiwymfUA",
+                "publishedAt": "2021-05-21T13:00:11Z",
+                "duration": "PT4M1S",
+                "viewCount": "19480341"
+            },
+            {
+                "id": "x8VYWazR5mE",
+                "title": "YOASOBI「夜に駆ける」 Official Music Video",
+                "channelTitle": "Ayase / YOASOBI",
+                "channelId": "UCvpredjG93ifbCP1Y77JyFA",
+                "publishedAt": "2019-11-16T13:00:11Z",
+                "duration": "PT4M36S",
+                "viewCount": "241494979"
+            },
+            {
+                "id": "dy90tA3TT1c",
+                "title": "YOASOBI「怪物」Official Music Video　(YOASOBI - Monster)",
+                "channelTitle": "Ayase / YOASOBI",
+                "channelId": "UCvpredjG93ifbCP1Y77JyFA",
+                "publishedAt": "2021-01-13T13:00:11Z",
+                "duration": "PT3M29S",
+                "viewCount": "122632305"
+            },
+            {
+                "id": "q09Gs6e5XVI",
+                "title": "変態紳士クラブ - YOKAZE (Official Music Video)",
+                "channelTitle": "変態紳士クラブ",
+                "channelId": "UCMI5tfhifxlSOOh1ErnfJuw",
+                "publishedAt": "2020-05-29T12:00:11Z",
+                "duration": "PT4M32S",
+                "viewCount": "18774534"
+            },
+            {
+                "id": "YnSW8ian29w",
+                "title": "【Ado】踊",
+                "channelTitle": "Ado",
+                "channelId": "UCln9P4Qm3-EAY4aiEPmRwEA",
+                "publishedAt": "2021-04-27T11:00:14Z",
+                "duration": "PT3M29S",
+                "viewCount": "66019747"
+            },
+            {
+                "id": "Y4nEEZwckuU",
+                "title": "YOASOBI「群青」Official Music Video",
+                "channelTitle": "Ayase / YOASOBI",
+                "channelId": "UCvpredjG93ifbCP1Y77JyFA",
+                "publishedAt": "2020-12-01T11:00:11Z",
+                "duration": "PT4M23S",
+                "viewCount": "50814668"
+            },
+            {
+                "id": "kMcawQWipSM",
+                "title": "Buddy - Trouble On Central (Official Video)",
+                "channelTitle": "BuddyVEVO",
+                "channelId": "UCKqTO6M56djXJBjKfwJJo3A",
+                "publishedAt": "2018-07-20T04:00:06Z",
+                "duration": "PT3M13S",
+                "viewCount": "4805963"
+            },
+            {
+                "id": "zkZARKFuzNQ",
+                "title": "Awesome City Club / 勿忘  (MUSIC VIDEO)",
+                "channelTitle": "Awesome City Club ‖オーサムシティクラブ",
+                "channelId": "UCW66DYvzKs5bmcCqjMqT3-w",
+                "publishedAt": "2021-01-27T12:00:11Z",
+                "duration": "PT4M33S",
+                "viewCount": "37357973"
+            },
+            {
+                "id": "Zy_KuTFwot4",
+                "title": "平井 大 / Stand by me, Stand by you.（Lyric Video）",
+                "channelTitle": "平井 大",
+                "channelId": "UCOXlVW6fGmawr3LR154FlEg",
+                "publishedAt": "2020-09-09T03:00:10Z",
+                "duration": "PT3M28S",
+                "viewCount": "42726015"
+            },
+            {
+                "id": "-CrGCR4RuWg",
+                "title": "Bluma to Lunch",
+                "channelTitle": "BLOOM VASE - Topic",
+                "channelId": "UCHAXrJraS1OucvsblMrhxXg",
+                "publishedAt": "2020-12-18T10:05:18Z",
+                "duration": "PT2M40S",
+                "viewCount": "16586067"
+            },
+            {
+                "id": "WAMxwRtNrPY",
+                "title": "Novelbright - ツキミソウ [Official Music Video]",
+                "channelTitle": "Novelbright",
+                "channelId": "UCIJAlAYCNN8RACtDDsy9K6g",
+                "publishedAt": "2020-12-11T13:00:12Z",
+                "duration": "PT5M17S",
+                "viewCount": "25605768"
+            },
+            {
+                "id": "1DPldNasDgY",
+                "title": "back number - 怪盗 (日本テレビ系 水曜ドラマ「恋はDeepに」主題歌)",
+                "channelTitle": "back number",
+                "channelId": "UCgipy6-EqjT-1BCDndXX1PA",
+                "publishedAt": "2021-05-24T11:00:14Z",
+                "duration": "PT3M23S",
+                "viewCount": "13531858"
+            },
+            {
+                "id": "mfwdvhYIGtw",
+                "title": "平井 大 / 題名のない今日（Lyric Video）",
+                "channelTitle": "平井 大",
+                "channelId": "UCOXlVW6fGmawr3LR154FlEg",
+                "publishedAt": "2021-01-27T03:02:24Z",
+                "duration": "PT3M30S",
+                "viewCount": "11769955"
+            },
+            {
+                "id": "gsT6eKsnT0M",
+                "title": "DISH// (北村匠海) - 猫 / THE FIRST TAKE",
+                "channelTitle": "THE FIRST TAKE",
+                "channelId": "UC9zY_E8mcAo_Oq772LEZq8Q",
+                "publishedAt": "2020-03-20T13:00:11Z",
+                "duration": "PT5M34S",
+                "viewCount": "148156468"
+            },
+            {
+                "id": "VfATdDI3604",
+                "title": "もう少しだけ",
+                "channelTitle": "YOASOBI - Topic",
+                "channelId": "UCI6B8NkZKqlFWoiC_xE-hzA",
+                "publishedAt": "2021-05-09T11:12:29Z",
+                "duration": "PT3M41S",
+                "viewCount": "15800467"
+            },
+            {
+                "id": "Qp3b-RXtz4w",
+                "title": "【Ado】うっせぇわ",
+                "channelTitle": "Ado",
+                "channelId": "UCln9P4Qm3-EAY4aiEPmRwEA",
+                "publishedAt": "2020-10-23T11:00:11Z",
+                "duration": "PT3M23S",
+                "viewCount": "167157493"
+            },
+            {
+                "id": "1tk1pqwrOys",
+                "title": "廻廻奇譚 - Eve MV",
+                "channelTitle": "E ve",
+                "channelId": "UCUXfRsEIJ9xO1DT7TbEWksw",
+                "publishedAt": "2020-11-20T10:00:00Z",
+                "duration": "PT3M44S",
+                "viewCount": "154523385"
+            },
+            {
+                "id": "yWHrYNP6j4k",
+                "title": "The Kid LAROI, Justin Bieber - Stay (Lyrics)",
+                "channelTitle": "7clouds",
+                "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+                "publishedAt": "2021-07-14T16:55:01Z",
+                "duration": "PT2M20S",
+                "viewCount": "7172559"
+            },
+            {
+                "id": "9IHwqdz8Xhw",
+                "title": "BTS (방탄소년단) 'Stay Gold' Official MV",
+                "channelTitle": "HYBE LABELS",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "publishedAt": "2020-06-26T08:59:11Z",
+                "duration": "PT4M16S",
+                "viewCount": "194917168"
+            },
+            {
+                "id": "kzdJkT4kp-A",
+                "title": "YOASOBI「ハルジオン」Official Music Video",
+                "channelTitle": "Ayase / YOASOBI",
+                "channelId": "UCvpredjG93ifbCP1Y77JyFA",
+                "publishedAt": "2020-05-11T11:00:11Z",
+                "duration": "PT3M23S",
+                "viewCount": "59050478"
+            },
+            {
+                "id": "zFT3f9biz68",
+                "title": "BTS (방탄소년단) 'Film out' Official MV",
+                "channelTitle": "HYBE LABELS",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "publishedAt": "2021-04-01T15:00:09Z",
+                "duration": "PT3M49S",
+                "viewCount": "156275415"
+            },
+            {
+                "id": "R7wI90H6Wuc",
+                "title": "川崎鷹也-魔法の絨毯【OFFICIAL MUSIC VIDEO】",
+                "channelTitle": "川崎鷹也【公式】",
+                "channelId": "UCZwXiIKBc9ok5QsOqXk5kiw",
+                "publishedAt": "2020-09-13T10:33:49Z",
+                "duration": "PT3M20S",
+                "viewCount": "43957280"
+            },
+            {
+                "id": "vd3IlOjSUGQ",
+                "title": "YOASOBI「ハルカ」Official Music Video",
+                "channelTitle": "Ayase / YOASOBI",
+                "channelId": "UCvpredjG93ifbCP1Y77JyFA",
+                "publishedAt": "2020-12-18T11:00:10Z",
+                "duration": "PT4M5S",
+                "viewCount": "26287848"
+            },
+            {
+                "id": "_rs52auqcmE",
+                "title": "Joyner Lucas - I Love (ADHD)",
+                "channelTitle": "Joyner Lucas",
+                "channelId": "UCUebubwSuTHfHjWJI4gCS9A",
+                "publishedAt": "2018-10-17T16:40:26Z",
+                "duration": "PT3M29S",
+                "viewCount": "75101917"
+            },
+            {
+                "id": "MBdVXkSdhwU",
+                "title": "BTS (방탄소년단) 'DNA' Official MV",
+                "channelTitle": "HYBE LABELS",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "publishedAt": "2017-09-18T09:00:02Z",
+                "duration": "PT4M16S",
+                "viewCount": "1322866061"
+            },
+            {
+                "id": "4DxL6IKmXx4",
+                "title": "LiSA 『炎』 -MUSiC CLiP-",
+                "channelTitle": "LiSA Official YouTube",
+                "channelId": "UCqEfdEvLG5oQWNYlDQrGlKw",
+                "publishedAt": "2020-10-13T03:00:07Z",
+                "duration": "PT5M2S",
+                "viewCount": "206842637"
+            },
+            {
+                "id": "vcGbefQBvJ4",
+                "title": "YOASOBI「アンコール」Official Music Video",
+                "channelTitle": "Ayase / YOASOBI",
+                "channelId": "UCvpredjG93ifbCP1Y77JyFA",
+                "publishedAt": "2021-01-18T14:00:09Z",
+                "duration": "PT4M42S",
+                "viewCount": "34556124"
+            },
+            {
+                "id": "XsX3ATc3FbA",
+                "title": "BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)' Official MV",
+                "channelTitle": "HYBE LABELS",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "publishedAt": "2019-04-12T09:00:02Z",
+                "duration": "PT4M13S",
+                "viewCount": "1319687271"
+            },
+            {
+                "id": "0xSiBpUdW4E",
+                "title": "あいみょん - マリーゴールド【OFFICIAL MUSIC VIDEO】",
+                "channelTitle": "あいみょん",
+                "channelId": "UCG8MvaPCa2ecKH3GZyFxduA",
+                "publishedAt": "2018-07-17T23:00:01Z",
+                "duration": "PT5M22S",
+                "viewCount": "251007344"
+            },
+            {
+                "id": "7WZ1Kt3zraY",
+                "title": "米津玄師 - Pale Blue",
+                "channelTitle": "米津玄師",
+                "channelId": "UCUCeZaZeJbEYAAzvMgrKOPQ",
+                "publishedAt": "2021-06-04T13:54:55Z",
+                "duration": "PT5M22S",
+                "viewCount": "35872600"
+            },
+            {
+                "id": "ZeIGVnkYX04",
+                "title": "napori",
+                "channelTitle": "Vaundy - Topic",
+                "channelId": "UC8_Ag6BVp43Vmrx6eillK9g",
+                "publishedAt": "2020-05-26T10:06:33Z",
+                "duration": "PT3M24S",
+                "viewCount": "22048761"
+            },
+            {
+                "id": "ilnLczvLGAY",
+                "title": "星野源 – 不思議 (Official Video)",
+                "channelTitle": "星野源",
+                "channelId": "UCPKlrgZXnnb89nSeITvTdGA",
+                "publishedAt": "2021-05-30T12:00:13Z",
+                "duration": "PT5M54S",
+                "viewCount": "17107590"
+            },
+            {
+                "id": "ReCnlwVZj1M",
+                "title": "Official髭男dism - 115万キロのフィルム［Official Audio］",
+                "channelTitle": "Official髭男dism",
+                "channelId": "UC3vg17IZ1IV73xx069jG44w",
+                "publishedAt": "2018-03-16T09:00:01Z",
+                "duration": "PT5M24S",
+                "viewCount": "53524103"
+            },
+            {
+                "id": "UM9XNpgrqVk",
+                "title": "怪獣の花唄 / Vaundy ： MUSIC VIDEO",
+                "channelTitle": "Vaundy",
+                "channelId": "UC1FQWQ3y3-e8l1pCtWhJt5A",
+                "publishedAt": "2020-07-02T15:00:10Z",
+                "duration": "PT3M53S",
+                "viewCount": "11262057"
+            },
+            {
+                "id": "-5q5mZbe3V8",
+                "title": "BTS (방탄소년단) 'Life Goes On' Official MV",
+                "channelTitle": "HYBE LABELS",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "publishedAt": "2020-11-20T04:58:11Z",
+                "duration": "PT3M51S",
+                "viewCount": "372335357"
+            },
+            {
+                "id": "9qfPF4fpiHE",
+                "title": "優里 『ピーターパン』Official Music Video（フル）",
+                "channelTitle": "優里 Official YouTube Channel",
+                "channelId": "UCBNVZPlWoR7oArfzJNrK9yw",
+                "publishedAt": "2020-09-02T13:00:14Z",
+                "duration": "PT3M57S",
+                "viewCount": "20300239"
+            },
+            {
+                "id": "323j5BRFi7s",
+                "title": "マカロニえんぴつ「恋人ごっこ」MV",
+                "channelTitle": "murffin discs",
+                "channelId": "UC1-EP9cKVrNQqvG-drnDA7Q",
+                "publishedAt": "2020-02-06T08:58:38Z",
+                "duration": "PT3M26S",
+                "viewCount": "26197772"
+            },
+            {
+                "id": "sOiMD45QGLs",
+                "title": "【Ado】ギラギラ",
+                "channelTitle": "Ado",
+                "channelId": "UCln9P4Qm3-EAY4aiEPmRwEA",
+                "publishedAt": "2021-02-14T11:00:16Z",
+                "duration": "PT4M37S",
+                "viewCount": "66860363"
+            },
+            {
+                "id": "XA2YEHn-A8Q",
+                "title": "TWICE \"Alcohol-Free\" M/V",
+                "channelTitle": "JYP Entertainment",
+                "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+                "publishedAt": "2021-06-09T08:58:12Z",
+                "duration": "PT3M34S",
+                "viewCount": "151063027"
+            },
+            {
+                "id": "sAuEeM_6zpk",
+                "title": "YOASOBI「あの夢をなぞって」 Official Music Video",
+                "channelTitle": "Ayase / YOASOBI",
+                "channelId": "UCvpredjG93ifbCP1Y77JyFA",
+                "publishedAt": "2020-01-18T12:00:13Z",
+                "duration": "PT4M",
+                "viewCount": "36096777"
+            }
+        ]
+    }
+}
